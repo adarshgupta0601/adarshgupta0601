@@ -1,1 +1,1 @@
-# adarshgupta0601
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta0601)](https://git.io/streak-stats)
