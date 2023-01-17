@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshgupta0601&show_icons=true&locale=en&layout=compact" alt="adarshgupta0601" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshgupta0601&show_icons=true&locale=en" alt="adarshgupta0601" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshgupta0601&" alt="adarshgupta0601" /></p>
