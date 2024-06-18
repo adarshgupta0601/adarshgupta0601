@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
-<h3 align="center">I am a BTech(Computer Science) student from UPES Dehradun. Looking forward to an opportunity in an IT organization that would help me to utilize my technical and analytical skills.</h3>
+<h3 align="center">% Education
+\section{Education}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{BITS Hyderabad} & \hfill \color[HTML]{371e77} Aug 2013 - Jun 2017 \\
+\color[HTML]{371e77} B.E. in Computer Science and Engineering & \hfill \color[HTML]{4B28A4} \textit{\textbf{CGPA: 7.96/10}} \\
+\multicolumn{2}{@{}X@{}}{Relevant Coursework: Object Oriented Programming, Databases, Discrete Maths, Data Structures and Algorithms, Operating Systems, Computer Networks, Machine Learning, Data Mining, Advance Data Structures and Algorithms, Information Retrieval, Image Processing}
+\end{tabularx}\\[3pt]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgupta0601&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgupta0601" /> </p>
 
